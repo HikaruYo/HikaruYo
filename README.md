@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @HikaruYo
+- 👋 Hi, I’m @Hikaru
 - ✨ I like space and stars
 - 💞️ Violet Evergarden is my wife🥰
