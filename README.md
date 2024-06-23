@@ -1,5 +1,5 @@
 ## 💫About Me
-I just a new programmer that want to know a lot of programming world
+I'm just a new programmer that want to know a lot of programming world
 <br>
 I'm currently learning and mastering PHP and the framework Laravel
 
