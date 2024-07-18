@@ -11,7 +11,7 @@ Currently I am still learning and mastering PHP and the Laravel framework
 
 ## 📊 GitHub Stats :
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikaruyo&show_icons=true&theme=radical)](https://github.com/hikaruyo/github-readme-stats&show_icons=true&theme=radical)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikaruyo&theme=radical&layout=compact&count_private=false)](https://github.com/hikaruyo/github-readme-stats&theme=radical&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=hikaruyo&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hikaruyo&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hikaruyo&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikaruyo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=hikaruyo&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hikaruyo&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hikaruyo&theme=vision-friendly-dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true)
