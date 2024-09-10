@@ -1,5 +1,5 @@
 ## 💫 About Me
-I'm just a new programmer that want to know a lot of programming world
+I'm a new programmer that want to know a lot of programming world!
 <br>
 Currently I am still learning Laravel
 
