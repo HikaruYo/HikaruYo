@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikaruyo&show_icons=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/hikaruyo/github-readme-stats&show_icons=true&theme=vision-friendly-dark)
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=hikaruyo&theme=vision-friendly-dark&hide_border=true&count_private=true)<br> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=hikaruyo&theme=vision-friendly-dark&hide_border=true&count_private=true)<br>v -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikaruyo&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 ### ✍️ Random Dev Quote
